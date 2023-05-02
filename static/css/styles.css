@@ -53,7 +53,7 @@ a {
 }
 
 .orange {
-    color: #FF7A00;
+    color: rgb(249, 92, 226);
 }
 
 .clear {
@@ -223,7 +223,7 @@ article h4 {
 
 .button-2 {
     color: #FFFFFF;
-    background-color: #FF7A00;
+    background-color: rgb(249, 92, 226);
     padding: 6px 20px;
     border-radius: 5px;
 }
